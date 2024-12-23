@@ -1,14 +1,21 @@
 import React from "react";
-import { Container, Typography } from "@mui/material";
+import { Container } from "@mui/material";
+import HeroSection from "../components/HeroSection";
+import FeaturesSection from "../components/FeaturesSection";
+import HowItWorks from "../components/HowItWorks"; // Sección de cómo funciona
+import PartnersSection from "../components/PartnersSection"; // Nueva sección de socios
 
 const Home = () => (
-  <Container>
-    <Typography variant="h4" component="h1" gutterBottom>
-      Bienvenido a PayThai.io
-    </Typography>
-    <Typography>
-      Simplificando pagos en criptomonedas para negocios en Tailandia.
-    </Typography>
+  <Container
+    maxWidth="lg"
+    sx={{
+      padding: 0, // Eliminamos padding extra para alinear las secciones
+    }}
+  >
+    <HeroSection /> {/* Sección de encabezado */}
+    <FeaturesSection /> {/* Sección de características */}
+    <HowItWorks /> {/* Sección de cómo funciona */}
+    <PartnersSection /> {/* Sección de socios añadida */}
   </Container>
 );
 

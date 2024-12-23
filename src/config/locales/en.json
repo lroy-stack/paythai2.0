@@ -1,0 +1,55 @@
+{
+    "hero": {
+    "title": "Simplify Crypto Payments in Thailand",
+    "subtitle": "Fast, secure, and cost-effective payment solutions for your business.",
+    "button": {
+      "start": "Get Started",
+      "learnMore": "Learn More"
+    }
+    },
+    "navbar": {
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact",
+      "partners": "Partners"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "whyPayThai": {
+    "title": "Why PayThai?",
+    "problemTitle": "The Problem Today",
+    "problemDesc": "High transaction fees, slow processing times, and technical complexity make payments inefficient for businesses and customers.",
+    "solutionTitle": "The PayThai Solution",
+    "solutionDesc": "PayThai eliminates intermediaries, reduces costs by 50%, and provides instant and secure payments with an easy setup process.",
+    "transformationTitle": "The Transformation",
+    "transformationDesc": "Businesses save money, customers enjoy modern payments, and Thailand embraces a digital future."
+  },
+
+    "howItWorks": {
+      "title": "How It Works",
+      "steps": [
+        {
+          "title": "Set Up Your Wallet",
+          "description": "Connect your digital wallet to PayThai in just a few clicks."
+        },
+        {
+          "title": "Receive Payments",
+          "description": "Accept payments in cryptocurrency using a simple QR code."
+        },
+        {
+          "title": "Convert to Thai Baht",
+          "description": "Easily exchange crypto for baht and transfer to your bank account."
+        }
+      ]
+    },
+    "partners": {
+    "title": "Our Trusted Partners",
+    "bitkubDesc": "The leading platform in Thailand for cryptocurrency trading with an integrated wallet.",
+    "binanceDesc": "The most trusted global exchange with advanced tools and an integrated wallet.",
+    "gateioDesc": "Trade and manage your cryptocurrencies securely and easily on Gate.io.",
+    "visit": "Visit",
+    "seeAll": "See All Partners"
+  }
+  }
+  
